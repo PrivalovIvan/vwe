@@ -71,7 +71,7 @@ html, body {
       -ms-flex-align: center;
           align-items: center;
   height: 100%;
-  background-image: url(/img/man.png);
+  background-image: url(/vwe/img/man.png);
   background-repeat: no-repeat;
   background-position: -218px bottom;
 }
@@ -130,25 +130,25 @@ html, body {
 }
 
 .imgun {
-  background-image: url(/img/36.png);
+  background-image: url(/vwe/img/36.png);
   -webkit-box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
           box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
 }
 
 .imgdeux {
-  background-image: url(/img/37.png);
+  background-image: url(/vwe/img/37.png);
   -webkit-box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
           box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
 }
 
 .imgtri {
-  background-image: url(/img/38.png);
+  background-image: url(/vwe/img/38.png);
   -webkit-box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
           box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
 }
 
 .imgqat {
-  background-image: url(/img/39.png);
+  background-image: url(/vwe/img/39.png);
   -webkit-box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
           box-shadow: 0 0 0 200px rgba(0, 0, 0, 0.7) inset;
   background-repeat: no-repeat;
@@ -316,7 +316,7 @@ html, body {
 
 .subscribe {
   height: 448px;
-  background-image: url(/img/subscribe.png);
+  background-image: url(/vwe/img/subscribe.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
